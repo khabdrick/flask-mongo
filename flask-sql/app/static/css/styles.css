@@ -1,0 +1,13 @@
+body {
+    padding-top: 56px;
+}
+.form-inline .form-control {
+    display: inline-block;
+    width: auto;
+    vertical-align: middle;
+}
+
+.form-inline .btn {
+    display: inline-block;
+    vertical-align: middle;
+}
